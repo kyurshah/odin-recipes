@@ -1,1 +1,1 @@
-# odin-reciepes
+# ODIN RECIPES [updating name of the git respostiry]
